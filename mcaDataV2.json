@@ -2,8 +2,8 @@
   "data": {
     "loan_home_screen_header": {
       "loanValue": {
-        "en": "1 lakh",
-        "hi": "1 लाख"
+        "en": "₹1 lakh",
+        "hi": "₹1 लाख"
       },
       "loanHeading1": {
         "en": "Get hassle free loan upto ",
@@ -13,9 +13,17 @@
         "en": "for your business!",
         "hi": "अपने व्यवसाय के लिए!"
       },
-      "loanSubheading": {
-        "en": "Get instant approval* in less than 5 minutes, through completely digital process!",
-        "hi": "पूरी तरह से डिजिटल प्रक्रिया के माध्यम से 5 मिनट से भी कम समय में तुरंत स्वीकृति* प्राप्त करें!"
+      "loanSubheading1": {
+        "en": "Get instant approval* in less than ",
+        "hi": "से कम में तत्काल स्वीकृति* प्राप्त करें "
+      },
+      "loanSubheading2": {
+        "en": "5 minutes",
+        "hi": "5 मिनट "
+      },
+      "loanSubheading3": {
+        "en": ", through completely digital process!",
+        "hi": ", पूरी तरह से डिजिटल प्रक्रिया के माध्यम से!"
       },
       "image": "mobile/images/mca/v2/mca_landing.png"
     },
@@ -119,9 +127,17 @@
         }
       ]
     },
+    "loan_home_screen_info_your": {
+      "en": "Your",
+      "hi": "आपका"
+    },
     "loan_home_screen_info": {
-      "en": "Your Aadhaar Card & PAN Card are required for vkyc. Please keep these documents with you",
-      "hi": "वीकेवाईसी के लिए आपका आधार कार्ड और पैन कार्ड जरूरी है। कृपया इन दस्तावेजों को अपने पास रखें"
+      "en": "are required for vkyc. Please keep these documents with you",
+      "hi": "वीकेवाईसी  के लिए आवश्यक हैं। कृपया इन दस्तावेजों को अपने पास रखें"
+    },
+    "loan_home_screen_info_doc": {
+      "en": "Aadhaar Card & PAN Card",
+      "hi": "आधार कार्ड और पैन कार्ड"
     },
     "tnc": {
       "en": "*terms and conditions applied",
