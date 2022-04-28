@@ -2,7 +2,7 @@
    "data":{
       "Home": [
          {
-            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/featureShowcase/accept_payments.png",
+            "image": "http://fcapp-cdn.freecharge.in/merchant/mobile/images/featureShowcase/accept_payments.png",
             "imageHeight": 109,
             "imageWidth": 116,
             "onPageURL": "",
